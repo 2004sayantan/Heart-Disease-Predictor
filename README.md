@@ -2,7 +2,7 @@
 
 This project uses Machine Learning and Python to predict whether a person may have heart disease based on different health-related information.
 
-🔹 What This Project Does
+ What This Project Does
 
 Cleans and prepares the dataset
 
@@ -29,6 +29,6 @@ Gradient Boosting
 
 The Logistic Regression model performed best with around 81.95% accuracy on the test data.
 
-🛠️ Technologies
+ Technologies
 
 Python | Pandas | NumPy | Scikit-learn | Jupyter/Google Colab
